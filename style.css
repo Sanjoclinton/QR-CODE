@@ -40,22 +40,3 @@ img {
     font-size: 0.9rem;
 }
 
-@media (min-width: 576px) {
-    .container {
-        width: 450px;
-        border-radius: 10px;
-        padding: 20px;
-    }
-
-    img {
-        width: 450px;
-        border-radius: 10px;
-    }
-}
-
-
-
-
-
-
-
